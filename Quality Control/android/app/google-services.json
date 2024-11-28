@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "764499744432",
+    "project_id": "quality-control-project",
+    "storage_bucket": "quality-control-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764499744432:android:708971e05e30ecfbcd4d75",
+        "android_client_info": {
+          "package_name": "com.example.flutter_egitim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSBBQZZNbiGquDfbWqLcwyKdzfYeRn9AE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
